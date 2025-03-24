@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 💫 About Me:<br>- 👋 Hi there, I’m @Iman  🫡<br>- 👀 I’m interested in machine learning & FullStack development <br>- ⚡ Fun fact: I prefer dark mode because light attracts bugs😂<br>- 💬 Let’s connect if you want to chat about **Latest Tech Trends, ML, or Coding tips**!
+ 💫 About Me:
+💫 About Me:<br>- 👋 Hi there, I’m @Iman  🫡<br>- 👀 I’m interested in machine learning & FullStack development <br>- ⚡ Fun fact: I prefer dark mode because light attracts bugs😂<br>- 💬 Let’s connect if you want to chat about **Latest Tech Trends, ML, or Coding tips!
 
 
 ## 🌐 Socials:
